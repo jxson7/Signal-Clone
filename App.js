@@ -1,3 +1,7 @@
+// link for tutorial: https://www.youtube.com/watch?v=_q-7KJZ7LzY
+
+
+
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 
